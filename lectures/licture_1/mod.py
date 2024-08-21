@@ -1,12 +1,18 @@
 
+
+
 def main():
-    x = int(input("what is x ?:"))
-    if is_even (x):
-        print("even")
+    x = int(input("whaths x? "))
+    if is_even(x):
+       print("Evint")
     else:
-        print("odd")
+        print("Odd")
 
 
 def is_even(num):
-    return  num % 2 == 0
+    return True if num %2 == 0 else False
+
 main()
+
+
+

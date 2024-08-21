@@ -1,8 +1,11 @@
-z = int(input("what is  x ?"))
-GIGA = int(input("what is  y ?"))
-z = z + GIGA
-GIGA = 15
-if z != GIGA:
-    print("Z is NOT EQUAL GIGA")
+x = int(input(" What is x?"))
+y = int(input("What is y?") )
+
+z = x + y 
+G = 15 
+if  z < G:
+    print("x is less then y")
+elif z > G:
+    print("x is greater then y ")
 else:
-    print("Z is equal GIGA ")
+    print("x is equel to y ")
