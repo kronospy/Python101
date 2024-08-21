@@ -4,7 +4,7 @@ Conditionals allow you, the programmer, to allow your program to make decisions:
 
 Built within Python are a set of “operators” that are used to ask mathematical questions.
 
->  `and` and `<` symbols are probably quite familiar to you.
+`>`   and `<` symbols are probably quite familiar to you.
 
 `>=` denotes “greater than or equal to.”
 
