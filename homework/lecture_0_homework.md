@@ -1,10 +1,10 @@
 In a file called indoor.py, implement a program in Python that prompts the user for input and then outputs that same input in lowercase. Punctuation and whitespace should be outputted unchanged. You’re welcome, but not required, to prompt the user explicitly, as by passing a str of your own as an argument to input.
 
-Before You Begin
+## Before You Begin
 Execute cd by itself in your terminal window. You should find that your terminal window’s prompt resembles the below:
 
 ```bash
-$
+/workspaces/Python101 (your-repo-name) $
 ```
 Next execute
 
